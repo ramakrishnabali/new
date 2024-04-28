@@ -1,0 +1,12 @@
+.home-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 3px solid #000000; */
+    height: 100vh;
+}
+.home-button{
+    margin-left: 10px;
+    background-color: aquamarine;
+    cursor: pointer;
+}
